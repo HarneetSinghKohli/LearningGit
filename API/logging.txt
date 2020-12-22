@@ -1,0 +1,546 @@
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 08:21:14 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=363887f5b2ae9fc5
+x-srv-span: v=1;s=5f25a5c84f35b6f4
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1606378934
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 08:21:24 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=1dca1d20cbb8c2fa
+x-srv-span: v=1;s=67e49971135001c1
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1606378934
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 08:22:44 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=a291323c979b7a50
+x-srv-span: v=1;s=2029a9b30d052ba4
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1606379024
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 08:22:48 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=4a002eee3e1e933d
+x-srv-span: v=1;s=ffc4846c343b46db
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1606379024
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 08:23:48 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=95726f56d387cc55
+x-srv-span: v=1;s=eed22757efa2d33c
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1606379088
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 08:23:52 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=75933ec396bdbb74
+x-srv-span: v=1;s=be741737369ac691
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1606379088
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 09:37:56 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=9160a0c15148af00
+x-srv-span: v=1;s=d6aca125998afd1e
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1606383536
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 09:38:07 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=a043f9d12121007c
+x-srv-span: v=1;s=dc376cd79c17edad
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1606383536
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 09:43:38 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=9cdcdf488462fc55
+x-srv-span: v=1;s=c53aa05063ce9f3d
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1606383878
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 09:43:45 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=162fe26a1d024656
+x-srv-span: v=1;s=b5670ec8b2cd279d
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1606383878
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 10:12:40 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=326a4d20b6f5f667
+x-srv-span: v=1;s=590d2c35d00f4b97
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1606385620
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Nov 2020 10:12:44 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=20f7899455bd53bb
+x-srv-span: v=1;s=d0a4c1cf3bcb1b50
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1606385620
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet1&password=abcd1
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet1
+				password=abcd1
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet1",
+    "password": "abcd1",
+    "Scope": "T1",
+    "Status": "Good"
+}
+HTTP/1.1 200 OK
+Date: Thu, 10 Dec 2020 10:38:46 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=a17c70608e9c4321
+x-srv-span: v=1;s=91e4d308d13b1c03
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 119
+X-RateLimit-Reset: 1607596786
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
+Request method:	GET
+Request URI:	https://e6088c64-bbd4-4fb9-b6b8-18652351cabb.mock.pstmn.io/getSuccess?username=Harneet&password=abcd
+Proxy:			<none>
+Request params:	<none>
+Query params:	username=Harneet
+				password=abcd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "userName": "Harneet",
+    "password": "abcd",
+    "Scope": "T2",
+    "Status": "Poor"
+}
+HTTP/1.1 200 OK
+Date: Thu, 10 Dec 2020 10:38:53 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Server: nginx
+x-srv-trace: v=1;t=50a94302eb017fe6
+x-srv-span: v=1;s=fcfb009a4bfdb490
+Access-Control-Allow-Origin: *
+X-RateLimit-Limit: 120
+X-RateLimit-Remaining: 118
+X-RateLimit-Reset: 1607596786
+ETag: W/"2d-q1DuZcVfD4hOkD6DjEZSxpeobx4"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+{
+    "Status": "OK",
+    "Scope": "APP"
+}
