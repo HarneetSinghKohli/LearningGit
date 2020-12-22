@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="E:\\New folder\\API\\src\\test\\java\\feature\\F2.feature",
+		features="C:\\Users\\Harneet\\git\\LearningGitr\\API\\src\\test\\java\\feature\\F2.feature",
 		glue="stepDefination"
 		)
 public class TestRunner {
